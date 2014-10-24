@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/soumyaray/citesight.svg?branch=master)](https://travis-ci.org/soumyaray/citesight)
+[![Build Status](https://travis-ci.org/CliveIMPISA/nbasalaryscrape.svg?branch=master)](https://travis-ci.org/CliveIMPISA/nbasalaryscrape)
